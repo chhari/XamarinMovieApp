@@ -1,0 +1,4 @@
+c:\users\haris\source\repos\MovieApp\MovieApp\MovieApp.Android\obj\Debug\MovieApp.Android.csprojResolveAssemblyReference.cache
+c:\users\haris\source\repos\MovieApp\MovieApp\MovieApp.Android\obj\Debug\MovieApp.Android.csproj.CoreCompileInputs.cache
+c:\users\haris\source\repos\MovieApp\MovieApp\MovieApp.Android\obj\Debug\MovieApp.Droid.App.xaml.g.cs
+c:\users\haris\source\repos\MovieApp\MovieApp\MovieApp.Android\obj\Debug\MovieApp.Droid.MainPage.xaml.g.cs
